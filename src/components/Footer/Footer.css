@@ -1,0 +1,16 @@
+footer {
+  padding: 5rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+/******************************************
+/* Mobile
+/*******************************************/
+@media screen and (max-width: 579px) and (min-height: 579px) {
+  footer {
+    padding: 5rem 0;
+  }
+}
